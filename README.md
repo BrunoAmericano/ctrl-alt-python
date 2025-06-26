@@ -4,17 +4,43 @@ Reinicie sua mente. Redefina seu código. Domine o jogo.
 
 Este é um eBook gratuito feito para quem quer aprender Python de forma simples, prática e divertida — direto ao ponto, com exemplos reais e estilo retro-geek.
 
+![Capa do eBook](./images/capa-ctrl-alt-python.jpg)
+
+## 📘 O QUE É ISSO?
+
+CTRL + ALT + PYTHON é um **eBook gratuito** criado por um dev raiz para devs em formação.  
+Escrito com ❤️, byte a byte, para ensinar **Python de forma simples, direta e com cara de terminal hacker**.
+
+Este projeto é pra você que:
+- Sempre quis aprender Python mas não sabia por onde começar
+- Gosta de tutoriais que vão direto ao ponto
+- Curte uma pitada de nostalgia pixelada e cultura geek
+
+---
+
+## ⚙️ CONTEÚDO
+
+✅ Conceitos básicos de programação  
+✅ Variáveis, funções, listas e dicionários  
+✅ Automação, Web com Flask e até IA com Python  
+✅ Capítulos bônus: erros comuns e mentalidade de dev  
+✅ Exemplos reais, didática prática e estilo old-school
+
+---
+
 ## 📥 Download
 
 👉 [Clique aqui para baixar o eBook em PDF](./ebook.pdf)
 
-## 🧠 Sobre o Autor
+## 👨‍💻 SOBRE O AUTOR
 
-Bruno José Americano Prado de Jesus  
-Técnico em Informática e Desenvolvedor  
-GitHub: [@BrunoAmericano](https://github.com/BrunoAmericano)
+**Bruno José Americano Prado de Jesus**  
+Técnico em Informática & Desenvolvedor  
+Mentor autodidata que acredita em ensinar com simplicidade e humor nerd.
 
-## 📜 Licença
+📧 contatobrunotechassistencia@gmail.com  
+🌐 [brunotechassistencia.odoo.com](https://brunotechassistencia.odoo.com)  
+🐙 [GitHub](https://github.com/BrunoAmericano)  
+📷 Instagram: [@_brunodigital_](https://instagram.com/_brunodigital_)
 
-Todos os direitos reservados. Este material é de uso exclusivo do autor.  
-Reprodução permitida apenas com os devidos créditos.
+---
