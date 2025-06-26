@@ -4,7 +4,7 @@ Reinicie sua mente. Redefina seu código. Domine o jogo.
 
 Este é um eBook gratuito feito para quem quer aprender Python de forma simples, prática e divertida — direto ao ponto, com exemplos reais e estilo retro-geek.
 
-![Capa do eBook](./images/capa-ctrl-alt-python.jpg)
+![Capa do eBook]([./images/capa-ctrl-alt-python.jpg](https://github.com/BrunoAmericano/ctrl-alt-python/blob/main/Imagens/20250625_1019_Capa%20Cyberpunk%20Futurista_simple_compose_01jykkrgfyfng8v4evn74p1hsf.png?raw=true))
 
 ## 📘 O QUE É ISSO?
 
